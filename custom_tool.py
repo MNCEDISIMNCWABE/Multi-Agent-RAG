@@ -6,7 +6,7 @@ from crewai.tools import BaseTool
 from typing import Type
 from pydantic import BaseModel, Field, ConfigDict
 
-FIRE_CRAWL_API_KEY = "fc-8b879c61ecbd4bd38ee4a201cd9cc3c1"
+FIRE_CRAWL_API_KEY = "<YOUR_FIRE_CRAWL_API_KEY>"
 LIMIT_RESEARCH_PAPERS = 10  # Limit to top 10 relevant papers
 
 # FireCrawl web search as fallback
