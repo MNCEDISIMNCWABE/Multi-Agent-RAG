@@ -14,5 +14,5 @@ This tool builds a locally hosted multi-agent RAG system with these key function
 ### Install dependencies
 ```pip install crewai crewai-tools chonkie[semantic] markitdown qdrant-client fastembed streamlit ollama```
 
-### Run the applicaiton using:
+### Run the application using:
 ```streamlit run app.py```
