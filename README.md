@@ -6,7 +6,7 @@ This tool builds a locally hosted multi-agent RAG system with these key function
 
 - Leverages [CrewAI](https://docs.crewai.com/introduction) and a locally hosted LLM ([Ollama](https://ollama.com/download)) to analyze the retrieved papers, extract key findings, URLs, and synthesize a comprehensive summary for the user.
 
-- Uses Streamlit for the UI
+- Uses [Streamlit](https://streamlit.io/) for the UI
 
 - Get the FireCrawl API Key from [FireCrawl](https://www.firecrawl.dev/)
 
