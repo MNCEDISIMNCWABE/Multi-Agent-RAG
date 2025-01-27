@@ -1,4 +1,4 @@
-This tool builds a locally hosted multi-agent RAG system with thesae key functionalities:
+This tool builds a locally hosted multi-agent RAG system with these key functionalities:
 
 - Searches and retrieves relevant AI/ML, and Data Science research papers from a user-specified topic from the arXiv database.
 
