@@ -8,7 +8,8 @@ This tool builds a locally hosted multi-agent RAG system with these key function
 
 - Uses [Streamlit](https://streamlit.io/) for the UI
 
-- Get the FireCrawl API Key from [FireCrawl](https://www.firecrawl.dev/)
+
+#### Get the FireCrawl API Key from [FireCrawl](https://www.firecrawl.dev/)
 
 ### Install dependencies
 ```pip install crewai crewai-tools chonkie[semantic] markitdown qdrant-client fastembed streamlit ollama```
