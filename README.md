@@ -10,11 +10,11 @@ This tool builds a locally hosted multi-agent RAG system with these key function
 
 
 #### Get the FireCrawl API Key from [FireCrawl](https://www.firecrawl.dev/)
-Setup your FireCrawl API: ``FIRE_CRAWL_API_KEY = "<YOUR_FIRE_CRAWL_API_KEY>"``
+- Setup your FireCrawl API: ``FIRE_CRAWL_API_KEY = "<YOUR_FIRE_CRAWL_API_KEY>"``
 
 ### Install dependencies
-```pip install crewai crewai-tools chonkie[semantic] markitdown qdrant-client fastembed streamlit ollama```
+- ```pip install crewai crewai-tools chonkie[semantic] markitdown qdrant-client fastembed streamlit ollama```
 
 
 ### Run the application using:
-```streamlit run app.py```
+- ```streamlit run app.py```
