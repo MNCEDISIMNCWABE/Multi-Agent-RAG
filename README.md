@@ -1,7 +1,8 @@
 This tool builds a locally hosted multi-agent RAG system with these key functionalities:
 
 - Research Agent: Searches and retrieves relevant AI/ML, and Data Science research papers from a user-specified topic from the [arXiv](https://arxiv.org/) database.
-- Synthesiser :
+
+- Response Synthesizer Agent: Processes the retrieved documents, extracts key insights, and generates coherent summaries or answers to user queries.
 
 - Includes a fallback to web search using the [FireCrawl](https://www.firecrawl.dev/) API to ensure comprehensive coverage.
 
