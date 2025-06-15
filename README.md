@@ -20,3 +20,5 @@ This tool builds a locally hosted multi-agent RAG system with these key function
 
 ### Run the application:
 - ```streamlit run app.py```
+
+<img width="893" alt="image" src="https://github.com/user-attachments/assets/a2c3ce9e-cfcc-4059-a346-312b26e93d84" />
